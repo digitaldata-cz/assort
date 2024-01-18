@@ -1,1 +1,1 @@
-# advanced-sort
+# Advanced slice sorting library for Go
